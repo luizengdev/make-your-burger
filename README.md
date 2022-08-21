@@ -1,4 +1,4 @@
-# make-your-burger
+# Vue 3 course training make-your-burger
 
 ## Project setup
 ```
